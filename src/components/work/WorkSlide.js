@@ -199,7 +199,8 @@ const SlideNum = styled(motion.button)`
   }
 
   &:hover {
-    transform: translateY(0.3rem) scale(1.4);
+    transform: translateY(0.3rem);
+    opacity: 0.8;
   }
 `
 
