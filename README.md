@@ -1,7 +1,7 @@
 # Project "Ciron"
 
 A fake music studio website.
-Check [here](https://ciron-music.netlify.app/).
+Check [here](https://ciron-music.netlify.app/){target='_blank'}.
 
 ## Technologies:
 
