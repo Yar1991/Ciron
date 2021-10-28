@@ -5,7 +5,6 @@ Check [here](https://ciron-music.netlify.app/).
 
 ## Technologies:
 
-- Javascript
-  - React
-    - styled-components
-    - framer-motion
+- React
+  - styled-components
+  - framer-motion
